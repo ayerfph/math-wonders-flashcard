@@ -8,6 +8,6 @@ Check my prototype:
 ---
 Show Demo Here
 
-![Flashcard](https://github.com/user-attachments/assets/ae25b4d1-d6ce-4ccd-861a-d40bd1256e0d)
+[https://github.com/user-attachments/assets/ae25b4d1-d6ce-4ccd-861a-d40bd1256e0d](https://github.com/ayerfph/math-wonders-flashcard/issues/1#issue-2768405946)
 
 ---
